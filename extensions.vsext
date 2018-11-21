@@ -1,0 +1,104 @@
+{
+  "id": "7ceae0aa-070b-416d-9654-916316e5bc52",
+  "name": "My Visual Studio extensions",
+  "description": "A collection of my Visual Studio extensions",
+  "version": "1.0",
+  "extensions": [
+    {
+      "name": ".ignore",
+      "vsixId": "7ac24965-ea21-4108-9cac-6e46394aaaef"
+    },
+    {
+      "name": "Add New File",
+      "vsixId": "2E78AA18-E864-4FBB-B8C8-6186FC865DB3"
+    },
+    {
+      "name": "CodeMaid",
+      "vsixId": "4c82e17d-927e-42d2-8460-b473ac7df316"
+    },
+    {
+      "name": "Color Theme Editor for Visual Studio",
+      "vsixId": "VSColorThemeEditor.26c6a2c2-1956-480f-845d-c32d9a14e1b4"
+    },
+    {
+      "name": "Disable Solution Explorer's Dynamic Nodes",
+      "vsixId": "4ce74140-3f68-4438-92a4-a54afea98179"
+    },
+    {
+      "name": "EditorConfig Language Service",
+      "vsixId": "1209461d-57f8-46a4-814a-dbe5fecef941"
+    },
+    {
+      "name": "Error Catcher II",
+      "vsixId": "376e6cdc-893d-4ae7-ad93-325575c35301"
+    },
+    {
+      "name": "Extension Manager",
+      "vsixId": "e83d71b8-8bfc-4e06-b145-b0388910c016"
+    },
+    {
+      "name": "File Icons",
+      "vsixId": "3a7b4930-a5fb-46ec-a9b8-9610c8f953b8"
+    },
+    {
+      "name": "File Nesting",
+      "vsixId": "6c799bc4-0d4c-4172-98bc-5d464b612dca"
+    },
+    {
+      "name": "Markdown Editor",
+      "vsixId": "9ca64947-e9ca-4543-bfb8-6cce9be19fd6"
+    },
+    {
+      "name": "Open in Visual Studio Code",
+      "vsixId": "e99dde0e-e023-410d-bc5d-3f76db71e3f0"
+    },
+    {
+      "name": "Output enhancer",
+      "vsixId": "VSOutputEnhancer.Nikolay Balakin.a06be4c3-f97e-425c-8a0d-bdef08ac2abb"
+    },
+    {
+      "name": "Package Installer",
+      "vsixId": "fdd64809-376e-4542-92ce-808a8df06bcc"
+    },
+    {
+      "name": "Project File Tools",
+      "vsixId": "e22f3d7e-6b01-4ef8-b3cb-ea293a87b00e"
+    },
+    {
+      "name": "Project System Tools",
+      "vsixId": "B6213233-1C34-4F76-9DD5-F6D520C32AA3"
+    },
+    {
+      "name": "ResolveUR - Resolve Unused References",
+      "vsixId": "637ba02c-3388-4e54-9051-3eea7c51b054"
+    },
+    {
+      "name": "Syntax Highlighting Pack",
+      "vsixId": "4773ce75-6f30-4269-9557-1f7c30a47be2"
+    },
+    {
+      "name": "Trailing Whitespace Visualizer",
+      "vsixId": "4c1a78e6-e7b8-4aa9-8812-4836e051ff6d"
+    },
+    {
+      "name": "Visual Studio IntelliCode - Preview",
+      "vsixId": "IntelliCode.VSIX.598224b2-b987-401b-8509-f568d0c0b946"
+    },
+    {
+      "name": "Visual Studio Project System Extensibility",
+      "vsixId": "Microsoft.VisualStudio.ProjectSystem.SDK.Dev15"
+    },
+    {
+      "name": "Visual Studio Spell Checker (VS2017 and Later)",
+      "vsixId": "43EA967E-0DE2-4136-8E52-C6DCFB5C2748"
+    },
+    {
+      "name": "Wix Toolset Visual Studio 2017 Extension",
+      "vsixId": "WixToolset.VisualStudioExtension.Dev15"
+    },
+    {
+      "name": "XAML Styler",
+      "vsixId": "0c572937-0d4a-48cc-aa3f-875ffa9805ba"
+    }
+  ]
+}
