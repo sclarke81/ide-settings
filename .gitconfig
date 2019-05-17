@@ -1,0 +1,6 @@
+[core]
+	editor = 'C:/Program Files (x86)/Notepad++/notepad++.exe' -multiInst -nosession -noPlugin
+[alias]
+    ir = "!git rebase --interactive $(git merge-base $1 HEAD);:"
+[rerere]
+	enabled = true
